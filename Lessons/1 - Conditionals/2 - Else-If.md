@@ -2,7 +2,7 @@
 
 ## 3.2 - Else-If
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J 🐧
 
 <table>
 <tr>
@@ -107,7 +107,7 @@ In the code above, if the user enters "2", the code will check if it's equal to 
 
 - In case you missed it, to get the **_length_ of a String**, we  use `.length`<br>For Example:<br>
   ```JS
-  let name = "Mr. Squirrel";
+  let name = "Mr. Jamieson";
   console.log("Your name is", name.length, "characters long.");
   ```
 - The internet is full of [tutorials](https://javascript.info/ifelse), [more tutorials](https://www.w3schools.com/js/js_if_else.asp), and [examples](https://www.google.com/search?q=if+else+statement+example) about the if-else statement since it is one of the very first constructs people learn in programming.
@@ -200,6 +200,5 @@ However,
 Keep in mind, not all of those require ELSE-IF.
 
 <br><br>
-
-🐿️
+🐧
 
