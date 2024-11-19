@@ -2,7 +2,7 @@
 
 ## 3.5 - Interlude: `Strings`
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J 🐧
 
 <table>
 <tr>
@@ -222,6 +222,5 @@ Pronouns are supposed to start with a single capital letter and be followed with
   console.log(fix_pronoun("HAM SanDWiCh!"));
   "Ham sandwich!"
   ```
-
 <br><br>
-🐿️
+🐧
