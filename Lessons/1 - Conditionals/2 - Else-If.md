@@ -198,7 +198,6 @@ However,
 - If the value is **_prime_**, return "Prime"
 
 Keep in mind, not all of those require ELSE-IF.
-
 <br><br>
 🐧
 
