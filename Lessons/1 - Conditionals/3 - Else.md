@@ -2,7 +2,7 @@
 
 ## 3.3 - Else
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J 🐧
 
 <table>
 <tr>
@@ -198,10 +198,5 @@ Reminder: `document.getElementById("guess").addEventListener("click", guess_10);
         - If their guess was too low, tell them this _and_ the correct number.
         - If their guess was too high, tell them this _and_ the correct number.
         - For all other cases, tell the user there was an error.
-
-
-
-
 <br><br>
-
-🐿️
+🐧
