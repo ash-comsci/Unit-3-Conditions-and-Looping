@@ -2,7 +2,7 @@
 
 ## 3.1: If-Statements
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J 🐧
 
 <table>
 <tr>
@@ -156,7 +156,7 @@ This will all be one function, run from the dev console:
     (Please note - these are all separate if-statements)
 
     - Now ask the user for their **name** and store the answer in a variable called `user_name`
-    - if the `user_name` is "Mr. Squirrel" print the squirrel emoji: "🐿️"
+    - if the `user_name` is "Mr. J" print the penguin emoji: "🐧"
     - if the `user_name` is longer than 7 characters print "You have a long name."
         - **You can read how to get the length of a string [here](https://flexiple.com/javascript/javascript-string-length)**.
 
