@@ -2,7 +2,7 @@
 
 ## 3.4 - While
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J 🐧
 
 <table>
 <tr>
@@ -234,5 +234,4 @@ Being bored is healthy - it breeds creativity. Get creative! You have the abilit
 [**The world is at your fingertips!**](https://www.google.com/search?q=how+do+I+learn+to+program)
 
 <br>
-
-🐿️
+🐧
