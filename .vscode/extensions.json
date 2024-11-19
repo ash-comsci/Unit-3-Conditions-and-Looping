@@ -1,0 +1,17 @@
+{
+    "unwantedRecommendations": [
+        "ms-vscode-remote.remote-containers",
+        "ms-azuretools.vscode-docker",
+        "GitHub.copilot",
+        "ms-edgedevtools.vscode-edge-devtools",
+        "DavidAnson.vscode-markdownlint",
+        "firefox-devtools.vscode-firefox-debug",
+        "GitHub.vscode-pull-request-github",
+        "eamodio.gitlens"
+    ],
+    "recommendations": [
+        "ritwickdey.LiveServer",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint"
+    ]
+}

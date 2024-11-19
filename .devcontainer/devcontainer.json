@@ -1,0 +1,13 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"mhutchie.git-graph",
+				"esbenp.prettier-vscode",
+				"CS50.extension-uninstaller",
+				"ritwickdey.LiveServer"
+			]
+		}
+	}
+}
