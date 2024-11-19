@@ -1,7 +1,6 @@
 # Unit 3 - Conditionals and Loops
 
-##### ICS3 - Mr. Brash 🐿️
-
+##### ICS3 - Mr. J 🐧
 
 So far we have the ability to create webpages using **HTML**, modify the webpage using **JavaScript**, chunk our code into **functions**, and use the **dev console** for printing and debugging.
 
