@@ -1,6 +1,6 @@
 # Updating the lessons
 
-As Mr. Brash updates the repository with lessons and sample code, you will need to synchronize your repository and _pull_ the changes to your VSCode/Codespace. This is a simple process but can cause issues:
+As Mr. J updates the repository with lessons and sample code, you will need to synchronize your repository and _pull_ the changes to your VSCode/Codespace. This is a simple process but can cause issues:
 
 1. Go to [your repository for this unit](https://github.com).  
 
