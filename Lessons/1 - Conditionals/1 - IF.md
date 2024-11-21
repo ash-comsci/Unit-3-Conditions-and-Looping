@@ -205,5 +205,4 @@ Create the function `longer_string(str1, str2)` which _returns the longer of the
 Create the function `discriminant(a, b, c)` which _returns how many zeros the quadratic will have based on the values of `a`, `b`, and `c`_. This requires your knowledge of [the descriminant](https://www.khanacademy.org/math/algebra-home/alg-quadratics/alg-solving-quadratics-using-the-quadratic-formula/a/discriminant-review) from grade 10 math.
 
 <br><br>
-
-🐿️
+🐧
