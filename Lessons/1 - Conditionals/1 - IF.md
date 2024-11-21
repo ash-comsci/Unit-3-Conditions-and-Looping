@@ -152,11 +152,11 @@ This will all be one function, run from the dev console:
     - Don't forget that keyboard input is a *String*, not a number, so [you'll have to convert it](https://www.sitepoint.com/convert-string-to-number-javascript/#:~:text=The%20unary%20plus%20(%2B)%20operator,a%20number%2C%20it%20returns%20NaN.).
     - **if** they are 60 years old _or older_, print to the console "You qualify for the senior discount!"
     - **if** they are _younger_ than 16, print "You're not old enough to drive yet."
-    - **if** they are 44, print "So is Mr. Squirrel!"  
+    - **if** they are 49, print "So is Mr. Jamieson!"  
     (Please note - these are all separate if-statements)
 
     - Now ask the user for their **name** and store the answer in a variable called `user_name`
-    - if the `user_name` is "Mr. J" print the penguin emoji: "🐧"
+    - if the `user_name` is "Mr. Jamieson" print the penguin emoji: "🐧"
     - if the `user_name` is longer than 7 characters print "You have a long name."
         - **You can read how to get the length of a string [here](https://flexiple.com/javascript/javascript-string-length)**.
 
