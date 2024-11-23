@@ -1,6 +1,6 @@
 /**
  * Unit 3 - Conditionals and Loops
- * ICS3 - Mr. J 
+ * ICS3 - Mr. J 🐧
  * 
  * For this unit, Mr. Jamieson is trying something different. Each lesson will
  * be in this one repository, separated in the Lessons folder.
