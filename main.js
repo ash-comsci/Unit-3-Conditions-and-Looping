@@ -1,11 +1,11 @@
 /**
  * Unit 3 - Conditionals and Loops
- * ICS3 - Mr. Brash 🐿️
+ * ICS3 - Mr. J 
  * 
- * For this unit, Mr. Brash is trying something different. Each lesson will
+ * For this unit, Mr. Jamieson is trying something different. Each lesson will
  * be in this one repository, separated in the Lessons folder.
  * 
- * If you run into Git or Github issues, call Mr. Brash over.
+ * If you run into Git or Github issues, call Mr. J over.
  **/ 
 
 
