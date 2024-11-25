@@ -2,7 +2,7 @@
 
 ## 3.6 - Do While
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J 🐠
 
 <table>
 <tr>
