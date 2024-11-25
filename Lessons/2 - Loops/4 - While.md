@@ -2,7 +2,7 @@
 
 ## 3.4 - While
 
-##### ICS3 - Mr. J 🐧
+##### ICS3 - Mr. J 🐧🐠
 
 <table>
 <tr>
