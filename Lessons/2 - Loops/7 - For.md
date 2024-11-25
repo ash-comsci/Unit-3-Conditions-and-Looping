@@ -2,7 +2,7 @@
 
 ## 3.7 - The For Loop
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J 🐠
 
 <table>
 <tr>
@@ -194,6 +194,4 @@ console.log(alpha);
 ###### [⬆ Back to the Top](#37---the-for-loop)
 
 <br>
-
-
-🐿️
+🐠
