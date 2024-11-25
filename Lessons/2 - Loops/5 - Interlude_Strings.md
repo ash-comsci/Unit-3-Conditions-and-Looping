@@ -2,7 +2,7 @@
 
 ## 3.5 - Interlude: `Strings`
 
-##### ICS3 - Mr. J 🐧
+##### ICS3 - Mr. J 🐧🐠
 
 <table>
 <tr>
