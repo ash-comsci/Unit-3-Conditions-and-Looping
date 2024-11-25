@@ -204,6 +204,5 @@ Write the function `factorial(n)` that calculates and *returns* the factorial of
   ```
 
 <br><br>
-
-🐿️
+🐠
 
