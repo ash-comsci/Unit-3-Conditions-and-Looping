@@ -188,7 +188,7 @@ console.log(alpha);
 ---
 ### Would you like even more challenges?
 
-[Click there for more conditional and looping challenges](https://gist.github.com/MisterBrash/df850424a11413b6660ac0b6b930852a#file-more-conditionals-and-loops-md).
+[Click there for more conditional and looping challenges](https://github.com/ash-comsci/Unit-3-Conditions-and-Looping/blob/a1e30f9a8cc70284e7209e3d96044f3f5f9a62c6/Lessons/2%20-%20Loops/Additional_Lessons.md).
 
 
 ###### [⬆ Back to the Top](#37---the-for-loop)
